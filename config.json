@@ -1,0 +1,54 @@
+{
+ "_note_stores": "Canadian online stores to watch. The bot checks each store's robots.txt rules first and skips stores that don't allow it. You can also add stores from Telegram with /addstore.",
+ "stores": [
+  {"name": "Hobbiesville (Toronto & Ottawa)", "url": "https://hobbiesville.com"},
+  {"name": "Top Shelf Collection", "url": "https://topshelfco.ca"},
+  {"name": "Cardboard Memories", "url": "https://www.cardboardmemories.ca"},
+  {"name": "Abyss Game Store", "url": "https://abyssgamestore.ca"},
+  {"name": "Pastime Sports & Games", "url": "https://pastimesports.ca"},
+  {"name": "Got Item Games", "url": "https://gotitemgames.ca"}
+ ],
+
+ "_note_words": "A product must have one include word and no exclude words in its name to be watched.",
+ "include_words": ["booster", "elite trainer", "etb", "tin", "collection", "bundle", "blister", "build & battle", "build and battle", "premium", "box"],
+ "exclude_words": ["sleeves", "deck box", "playmat", "portfolio", "toploader", "top loader", "psa", "graded", "singles", "acrylic", "protector", "plush", "figure", "empty box", "damaged"],
+
+ "_note_prices": "Usual Canadian retail prices (estimates - edit them if you know better). Checked top to bottom; the first match wins.",
+ "usual_prices": [
+  {"name": "Pokémon Center ETB", "keywords": ["pokemon center", "elite trainer"], "price": 89.99},
+  {"name": "Pokémon Center ETB", "keywords": ["pokémon center", "elite trainer"], "price": 89.99},
+  {"name": "Elite Trainer Box", "keywords": ["elite trainer"], "price": 74.99},
+  {"name": "Elite Trainer Box", "keywords": ["etb"], "price": 74.99},
+  {"name": "Booster Bundle", "keywords": ["booster bundle"], "price": 44.99},
+  {"name": "Booster Box", "keywords": ["booster box"], "price": 219.99},
+  {"name": "Booster Box", "keywords": ["booster display"], "price": 219.99},
+  {"name": "3-pack blister", "keywords": ["3 pack"], "price": 19.99},
+  {"name": "3-pack blister", "keywords": ["3-pack"], "price": 19.99},
+  {"name": "Mini Tin", "keywords": ["mini tin"], "price": 14.99},
+  {"name": "Tin", "keywords": ["tin"], "price": 29.99},
+  {"name": "Booster Pack", "keywords": ["booster pack"], "price": 6.99}
+ ],
+
+ "_note_news": "Google News searches (Canada edition, last 7 days). Add or remove searches freely.",
+ "news_searches": [
+  "Costco Pokémon cards Canada",
+  "Walmart Pokémon cards Canada",
+  "EB Games Pokémon",
+  "Pokémon Center Canada",
+  "Best Buy Pokémon cards Canada",
+  "Toys R Us Canada Pokémon",
+  "Pokémon cards Ontario restock",
+  "Pokémon TCG release date"
+ ],
+ "extra_feeds": [
+  {"name": "PokéBeach (TCG news)", "url": "https://www.pokebeach.com/feed"}
+ ],
+ "official_sources": ["Pokemon.com", "Pokémon.com", "The Pokémon Company", "Pokémon Center", "Costco", "Walmart", "Walmart Canada", "Best Buy", "Best Buy Canada", "EB Games", "EB Games Canada"],
+
+ "news_every_minutes": 20,
+ "news_max_age_hours": 72,
+ "max_alerts_per_run": 8,
+
+ "_note_reporters": "Telegram user IDs of friends allowed to use /report and /rumour. Leave empty for just you.",
+ "extra_reporter_ids": []
+}
