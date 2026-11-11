@@ -12,7 +12,7 @@
      "p": "49.95"
     }
    },
-   "checked": "2026-11-11T19:36:09.131114+00:00",
+   "checked": "2026-11-11T21:06:01.596063+00:00",
    "status": "OK — watching 2 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -247,7 +247,7 @@
      "p": "9.99"
     }
    },
-   "checked": "2026-11-11T19:36:10.693431+00:00",
+   "checked": "2026-11-11T21:06:03.037120+00:00",
    "status": "OK — watching 47 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -624,10 +624,34 @@
     "39595846205594": {
      "a": true,
      "p": "59.99"
+    },
+    "48667953135770": {
+     "a": true,
+     "p": "89.99"
+    },
+    "48668142928026": {
+     "a": true,
+     "p": "69.99"
+    },
+    "48668147875994": {
+     "a": true,
+     "p": "69.99"
+    },
+    "48667855192218": {
+     "a": true,
+     "p": "549.99"
+    },
+    "48667781791898": {
+     "a": true,
+     "p": "159.99"
+    },
+    "48667847032986": {
+     "a": true,
+     "p": "499.99"
     }
    },
-   "checked": "2026-11-11T19:36:12.432810+00:00",
-   "status": "OK — watching 93 sealed Pokémon products"
+   "checked": "2026-11-11T21:06:04.387112+00:00",
+   "status": "OK — watching 99 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
    "initialized": true,
@@ -713,7 +737,7 @@
      "p": "1.05"
     }
    },
-   "checked": "2026-11-11T19:36:19.402224+00:00",
+   "checked": "2026-11-11T21:06:10.916794+00:00",
    "status": "OK — watching 4 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1116,7 +1140,7 @@
      "p": "259.99"
     }
    },
-   "checked": "2026-11-11T19:36:27.573643+00:00",
+   "checked": "2026-11-11T21:06:18.340686+00:00",
    "status": "OK — watching 46 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1127,7 +1151,7 @@
      "p": "149.99"
     }
    },
-   "checked": "2026-11-11T19:36:35.273254+00:00",
+   "checked": "2026-11-11T21:06:25.073466+00:00",
    "status": "OK — watching 1 sealed Pokémon products"
   }
  },
@@ -1197,6 +1221,54 @@
    "where": "Top Shelf Collection",
    "link": "https://topshelfco.ca/products/pokemon-delta-reign-checklane-blister",
    "time": "2026-11-11T19:36:41.980061+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Booster Bundle",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-booster-bundle",
+   "time": "2026-11-11T21:06:27.796802+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Sylveon EX Box",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-sylveon-ex-box",
+   "time": "2026-11-11T21:06:28.868931+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Greninja EX Box",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-greninja-ex-box",
+   "time": "2026-11-11T21:06:29.927584+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Night Ultra Premium Collection",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-night-ultra-premium-collection-pre-order-november-6th-2026-copy",
+   "time": "2026-11-11T21:06:31.026614+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Ditto - Premium Collection",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-ditto-premium-collection",
+   "time": "2026-11-11T21:06:32.124408+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Day Ultra Premium Collection",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-day-ultra-premium-collection-pre-order-november-6th-2026",
+   "time": "2026-11-11T21:06:33.279560+00:00"
   }
  ],
  "news_seen": [],
@@ -1213,6 +1285,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-11T19:36:36.972833+00:00",
+ "last_news_check": "2026-11-11T21:06:26.650516+00:00",
  "welcomed": true
 }
