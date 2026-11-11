@@ -12,7 +12,7 @@
      "p": "49.95"
     }
    },
-   "checked": "2026-11-11T18:30:12.948836+00:00",
+   "checked": "2026-11-11T19:36:09.131114+00:00",
    "status": "OK — watching 2 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -225,10 +225,30 @@
     "50478654718132": {
      "a": true,
      "p": "269.99"
+    },
+    "67581580804276": {
+     "a": true,
+     "p": "12.99"
+    },
+    "67581580837044": {
+     "a": true,
+     "p": "99.99"
+    },
+    "50478684143796": {
+     "a": true,
+     "p": "59.99"
+    },
+    "50478655865012": {
+     "a": true,
+     "p": "29.99"
+    },
+    "50478688731316": {
+     "a": true,
+     "p": "9.99"
     }
    },
-   "checked": "2026-11-11T18:30:14.510274+00:00",
-   "status": "OK — watching 43 sealed Pokémon products"
+   "checked": "2026-11-11T19:36:10.693431+00:00",
+   "status": "OK — watching 47 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
    "initialized": true,
@@ -606,7 +626,7 @@
      "p": "59.99"
     }
    },
-   "checked": "2026-11-11T18:30:16.300385+00:00",
+   "checked": "2026-11-11T19:36:12.432810+00:00",
    "status": "OK — watching 93 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -693,7 +713,7 @@
      "p": "1.05"
     }
    },
-   "checked": "2026-11-11T18:30:22.781901+00:00",
+   "checked": "2026-11-11T19:36:19.402224+00:00",
    "status": "OK — watching 4 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1096,7 +1116,7 @@
      "p": "259.99"
     }
    },
-   "checked": "2026-11-11T18:30:30.605221+00:00",
+   "checked": "2026-11-11T19:36:27.573643+00:00",
    "status": "OK — watching 46 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1107,7 +1127,7 @@
      "p": "149.99"
     }
    },
-   "checked": "2026-11-11T18:30:37.043400+00:00",
+   "checked": "2026-11-11T19:36:35.273254+00:00",
    "status": "OK — watching 1 sealed Pokémon products"
   }
  },
@@ -1137,6 +1157,46 @@
    "where": "Cardboard Memories",
    "link": "https://www.cardboardmemories.ca/products/pokemon-sword-and-shield-chilling-reign-3-pack-blister-eevee",
    "time": "2026-11-11T18:30:41.419370+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Holly Box - Pokemon Sleeping Eevee - Blind Box (1)",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/holly-box-pokemon-sleeping-eevee-blind-box",
+   "time": "2026-11-11T19:36:37.976419+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Holly Box - Pokemon Sleeping Eevee - Blind Box (Set of 9 (Display))",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/holly-box-pokemon-sleeping-eevee-blind-box",
+   "time": "2026-11-11T19:36:38.969180+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Delta Reign - Booster Bundle (LIMIT 1)",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/pokemon-delta-reign-booster-bundle",
+   "time": "2026-11-11T19:36:39.970731+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Delta Reign - 3 Pack Blister (LIMIT 2)",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/pokemon-delta-reign-3-pack-blister",
+   "time": "2026-11-11T19:36:40.972773+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Delta Reign - Checklane Blister (LIMIT 6)",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/pokemon-delta-reign-checklane-blister",
+   "time": "2026-11-11T19:36:41.980061+00:00"
   }
  ],
  "news_seen": [],
@@ -1153,6 +1213,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-11T18:30:38.681006+00:00",
+ "last_news_check": "2026-11-11T19:36:36.972833+00:00",
  "welcomed": true
 }
