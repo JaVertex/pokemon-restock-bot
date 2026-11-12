@@ -12,7 +12,7 @@
      "p": "49.95"
     }
    },
-   "checked": "2026-11-12T06:47:57.249232+00:00",
+   "checked": "2026-11-12T08:04:17.436526+00:00",
    "status": "OK — watching 2 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -255,7 +255,7 @@
      "p": "149.99"
     }
    },
-   "checked": "2026-11-12T06:47:58.715075+00:00",
+   "checked": "2026-11-12T08:04:18.927193+00:00",
    "status": "OK — watching 49 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -658,7 +658,7 @@
      "p": "499.99"
     }
    },
-   "checked": "2026-11-12T06:48:00.287535+00:00",
+   "checked": "2026-11-12T08:04:20.392756+00:00",
    "status": "OK — watching 99 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -706,23 +706,23 @@
     },
     "68004584489190": {
      "a": false,
-     "p": "3.40"
+     "p": "3.10"
     },
     "68004584521958": {
      "a": false,
-     "p": "3.05"
+     "p": "2.75"
     },
     "68004584554726": {
      "a": false,
-     "p": "2.70"
+     "p": "2.45"
     },
     "68004584587494": {
      "a": false,
-     "p": "1.70"
+     "p": "1.55"
     },
     "68004584620262": {
      "a": false,
-     "p": "1.05"
+     "p": "0.95"
     },
     "68004583833830": {
      "a": false,
@@ -785,7 +785,7 @@
      "p": "0.30"
     }
    },
-   "checked": "2026-11-12T06:48:06.939684+00:00",
+   "checked": "2026-11-12T08:04:26.644485+00:00",
    "status": "OK — watching 6 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1188,7 +1188,7 @@
      "p": "259.99"
     }
    },
-   "checked": "2026-11-12T06:48:14.742074+00:00",
+   "checked": "2026-11-12T08:04:34.204998+00:00",
    "status": "OK — watching 46 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1199,7 +1199,7 @@
      "p": "149.99"
     }
    },
-   "checked": "2026-11-12T06:48:21.866757+00:00",
+   "checked": "2026-11-12T08:04:41.554007+00:00",
    "status": "OK — watching 1 sealed Pokémon products"
   }
  },
@@ -1349,6 +1349,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-12T06:48:23.356344+00:00",
+ "last_news_check": "2026-11-12T08:04:43.206976+00:00",
  "welcomed": true
 }
