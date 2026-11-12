@@ -12,7 +12,7 @@
      "p": "49.95"
     }
    },
-   "checked": "2026-11-11T23:50:59.847905+00:00",
+   "checked": "2026-11-12T00:47:01.688026+00:00",
    "status": "OK — watching 2 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -245,10 +245,14 @@
     "50478688731316": {
      "a": true,
      "p": "9.99"
+    },
+    "43852726763700": {
+     "a": true,
+     "p": "69.99"
     }
    },
-   "checked": "2026-11-11T23:51:01.289725+00:00",
-   "status": "OK — watching 47 sealed Pokémon products"
+   "checked": "2026-11-12T00:47:03.278994+00:00",
+   "status": "OK — watching 48 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
    "initialized": true,
@@ -650,7 +654,7 @@
      "p": "499.99"
     }
    },
-   "checked": "2026-11-11T23:51:03.190603+00:00",
+   "checked": "2026-11-12T00:47:04.861479+00:00",
    "status": "OK — watching 99 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -737,7 +741,7 @@
      "p": "1.05"
     }
    },
-   "checked": "2026-11-11T23:51:09.967598+00:00",
+   "checked": "2026-11-12T00:47:11.647211+00:00",
    "status": "OK — watching 4 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1140,7 +1144,7 @@
      "p": "259.99"
     }
    },
-   "checked": "2026-11-11T23:51:17.642580+00:00",
+   "checked": "2026-11-12T00:47:19.621834+00:00",
    "status": "OK — watching 46 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1151,7 +1155,7 @@
      "p": "149.99"
     }
    },
-   "checked": "2026-11-11T23:51:24.448636+00:00",
+   "checked": "2026-11-12T00:47:27.280593+00:00",
    "status": "OK — watching 1 sealed Pokémon products"
   }
  },
@@ -1269,6 +1273,14 @@
    "where": "Cardboard Memories",
    "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-day-ultra-premium-collection-pre-order-november-6th-2026",
    "time": "2026-11-11T21:06:33.279560+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Box Set - Charizard Ex - Special Collection (REPRINT) (LIMIT 1)",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/pokemon-box-set-charizard-ex-special-collection",
+   "time": "2026-11-12T00:47:29.941342+00:00"
   }
  ],
  "news_seen": [],
@@ -1285,6 +1297,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-11T23:51:25.855500+00:00",
+ "last_news_check": "2026-11-12T00:47:28.966606+00:00",
  "welcomed": true
 }
