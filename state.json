@@ -10,10 +10,14 @@
     "49573558222986": {
      "a": false,
      "p": "49.95"
+    },
+    "72032923222154": {
+     "a": false,
+     "p": "24.99"
     }
    },
-   "checked": "2026-11-12T19:24:57.165322+00:00",
-   "status": "OK — watching 2 sealed Pokémon products"
+   "checked": "2026-11-12T20:19:28.205184+00:00",
+   "status": "OK — watching 3 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
    "initialized": true,
@@ -255,7 +259,7 @@
      "p": "149.99"
     }
    },
-   "checked": "2026-11-12T19:24:58.623182+00:00",
+   "checked": "2026-11-12T20:19:29.736256+00:00",
    "status": "OK — watching 49 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -383,7 +387,7 @@
     },
     "48668155314330": {
      "a": true,
-     "p": "199.99"
+     "p": "159.99"
     },
     "48023421780122": {
      "a": true,
@@ -658,7 +662,7 @@
      "p": "499.99"
     }
    },
-   "checked": "2026-11-12T19:25:00.330018+00:00",
+   "checked": "2026-11-12T20:19:31.369568+00:00",
    "status": "OK — watching 99 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -785,7 +789,7 @@
      "p": "0.30"
     }
    },
-   "checked": "2026-11-12T19:25:07.197100+00:00",
+   "checked": "2026-11-12T20:19:38.282617+00:00",
    "status": "OK — watching 6 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -996,7 +1000,7 @@
      "p": "144.99"
     },
     "47685866684593": {
-     "a": false,
+     "a": true,
      "p": "3599.99"
     },
     "48003744694449": {
@@ -1188,7 +1192,7 @@
      "p": "259.99"
     }
    },
-   "checked": "2026-11-12T19:25:14.842063+00:00",
+   "checked": "2026-11-12T20:19:45.760571+00:00",
    "status": "OK — watching 46 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1199,7 +1203,7 @@
      "p": "149.99"
     }
    },
-   "checked": "2026-11-12T19:25:21.734910+00:00",
+   "checked": "2026-11-12T20:19:52.360687+00:00",
    "status": "OK — watching 1 sealed Pokémon products"
   }
  },
@@ -1333,6 +1337,14 @@
    "where": "Top Shelf Collection",
    "link": "https://topshelfco.ca/products/pokemon-30th-celebration-box-set-ditto-premium-collection",
    "time": "2026-11-12T05:44:43.603785+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon 30th Celebration Booster Bundle Box/Case (Sealed Case (25 Boxes))",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-30th-celebration-booster-bundle-box-case",
+   "time": "2026-11-12T20:19:54.666871+00:00"
   }
  ],
  "news_seen": [],
@@ -1349,6 +1361,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-12T19:25:23.244493+00:00",
+ "last_news_check": "2026-11-12T20:19:53.748949+00:00",
  "welcomed": true
 }
