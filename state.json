@@ -12,11 +12,11 @@
      "p": "49.95"
     },
     "72032923222154": {
-     "a": false,
-     "p": "24.99"
+     "a": true,
+     "p": "25.95"
     }
    },
-   "checked": "2026-11-12T23:26:43.384743+00:00",
+   "checked": "2026-11-13T00:15:31.265950+00:00",
    "status": "OK — watching 3 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -257,10 +257,14 @@
     "67606719889588": {
      "a": true,
      "p": "149.99"
+    },
+    "44174649196724": {
+     "a": true,
+     "p": "269.99"
     }
    },
-   "checked": "2026-11-12T23:26:44.897778+00:00",
-   "status": "OK — watching 49 sealed Pokémon products"
+   "checked": "2026-11-13T00:15:32.927916+00:00",
+   "status": "OK — watching 50 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
    "initialized": true,
@@ -662,7 +666,7 @@
      "p": "499.99"
     }
    },
-   "checked": "2026-11-12T23:26:46.654805+00:00",
+   "checked": "2026-11-13T00:15:34.776767+00:00",
    "status": "OK — watching 99 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -789,7 +793,7 @@
      "p": "0.30"
     }
    },
-   "checked": "2026-11-12T23:26:53.454609+00:00",
+   "checked": "2026-11-13T00:15:41.725619+00:00",
    "status": "OK — watching 6 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1216,7 +1220,7 @@
      "p": "469.99"
     }
    },
-   "checked": "2026-11-12T23:27:01.572685+00:00",
+   "checked": "2026-11-13T00:15:49.038743+00:00",
    "status": "OK — watching 48 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1227,7 +1231,7 @@
      "p": "149.99"
     }
    },
-   "checked": "2026-11-12T23:27:09.486802+00:00",
+   "checked": "2026-11-13T00:15:55.859692+00:00",
    "status": "OK — watching 1 sealed Pokémon products"
   }
  },
@@ -1417,6 +1421,22 @@
    "where": "Pastime Sports & Games",
    "link": "https://pastimesports.ca/products/pokemon-30th-celebration-sylveon-ex-greninja-ex-collection-box-case",
    "time": "2026-11-12T22:01:01.756640+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Pokemon Day 2027 Collection (Pre Order)",
+   "where": "Hobbiesville (Toronto & Ottawa)",
+   "link": "https://hobbiesville.com/products/pokemon-pokemon-day-2027-collection",
+   "time": "2026-11-13T00:15:58.189288+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Chaos Rising - Booster Box",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/pokemon-chaos-rising-booster-box",
+   "time": "2026-11-13T00:15:59.092263+00:00"
   }
  ],
  "news_seen": [],
@@ -1433,6 +1453,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-12T23:27:11.004903+00:00",
+ "last_news_check": "2026-11-13T00:15:57.233027+00:00",
  "welcomed": true
 }
