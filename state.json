@@ -12,11 +12,11 @@
      "p": "49.95"
     },
     "72032923222154": {
-     "a": false,
+     "a": true,
      "p": "25.95"
     }
    },
-   "checked": "2026-11-13T02:25:24.962335+00:00",
+   "checked": "2026-11-13T03:17:56.433167+00:00",
    "status": "OK — watching 3 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -263,7 +263,7 @@
      "p": "269.99"
     }
    },
-   "checked": "2026-11-13T02:25:26.478882+00:00",
+   "checked": "2026-11-13T03:17:57.911292+00:00",
    "status": "OK — watching 50 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -666,7 +666,7 @@
      "p": "499.99"
     }
    },
-   "checked": "2026-11-13T02:25:28.146393+00:00",
+   "checked": "2026-11-13T03:17:59.442442+00:00",
    "status": "OK — watching 99 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -793,7 +793,7 @@
      "p": "0.30"
     }
    },
-   "checked": "2026-11-13T02:25:34.819951+00:00",
+   "checked": "2026-11-13T03:18:06.061106+00:00",
    "status": "OK — watching 6 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1220,7 +1220,7 @@
      "p": "469.99"
     }
    },
-   "checked": "2026-11-13T02:25:41.705066+00:00",
+   "checked": "2026-11-13T03:18:14.044535+00:00",
    "status": "OK — watching 48 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1231,7 +1231,7 @@
      "p": "149.99"
     }
    },
-   "checked": "2026-11-13T02:25:47.976792+00:00",
+   "checked": "2026-11-13T03:18:21.499288+00:00",
    "status": "OK — watching 1 sealed Pokémon products"
   }
  },
@@ -1437,6 +1437,14 @@
    "where": "Top Shelf Collection",
    "link": "https://topshelfco.ca/products/pokemon-chaos-rising-booster-box",
    "time": "2026-11-13T00:15:59.092263+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Pokemon Day 2027 Collection (Pre Order)",
+   "where": "Hobbiesville (Toronto & Ottawa)",
+   "link": "https://hobbiesville.com/products/pokemon-pokemon-day-2027-collection",
+   "time": "2026-11-13T03:18:23.952629+00:00"
   }
  ],
  "news_seen": [],
@@ -1453,6 +1461,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-13T02:25:49.375585+00:00",
+ "last_news_check": "2026-11-13T03:18:22.993634+00:00",
  "welcomed": true
 }
