@@ -16,7 +16,7 @@
      "p": "25.95"
     }
    },
-   "checked": "2026-11-13T19:23:36.398845+00:00",
+   "checked": "2026-11-13T20:20:34.221265+00:00",
    "status": "OK — watching 3 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -263,7 +263,7 @@
      "p": "269.99"
     }
    },
-   "checked": "2026-11-13T19:23:37.835389+00:00",
+   "checked": "2026-11-13T20:20:35.599683+00:00",
    "status": "OK — watching 50 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -664,10 +664,50 @@
     "48667847032986": {
      "a": true,
      "p": "499.99"
+    },
+    "67653783715994": {
+     "a": true,
+     "p": "44.99"
+    },
+    "67653807177882": {
+     "a": true,
+     "p": "44.99"
+    },
+    "67653656117402": {
+     "a": true,
+     "p": "44.99"
+    },
+    "67653855772826": {
+     "a": true,
+     "p": "44.99"
+    },
+    "67653767954586": {
+     "a": true,
+     "p": "44.99"
+    },
+    "67653400723610": {
+     "a": true,
+     "p": "44.99"
+    },
+    "67653837553818": {
+     "a": true,
+     "p": "44.99"
+    },
+    "67653269880986": {
+     "a": true,
+     "p": "44.99"
+    },
+    "67653704646810": {
+     "a": true,
+     "p": "44.99"
+    },
+    "67653822480538": {
+     "a": true,
+     "p": "44.99"
     }
    },
-   "checked": "2026-11-13T19:23:39.443797+00:00",
-   "status": "OK — watching 99 sealed Pokémon products"
+   "checked": "2026-11-13T20:20:37.185533+00:00",
+   "status": "OK — watching 109 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
    "initialized": true,
@@ -813,7 +853,7 @@
      "p": "0.20"
     }
    },
-   "checked": "2026-11-13T19:23:46.042771+00:00",
+   "checked": "2026-11-13T20:20:43.828212+00:00",
    "status": "OK — watching 7 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -861,11 +901,11 @@
     },
     "47686785826993": {
      "a": true,
-     "p": "39.99"
+     "p": "34.99"
     },
     "47686785859761": {
      "a": true,
-     "p": "949.99"
+     "p": "829.99"
     },
     "47686748045489": {
      "a": true,
@@ -1240,7 +1280,7 @@
      "p": "469.99"
     }
    },
-   "checked": "2026-11-13T19:23:53.041884+00:00",
+   "checked": "2026-11-13T20:20:51.277647+00:00",
    "status": "OK — watching 48 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1351,7 +1391,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-13T19:23:59.928837+00:00",
+   "checked": "2026-11-13T20:20:58.107203+00:00",
    "status": "OK — watching 6 sealed Pokémon products"
   }
  },
@@ -1565,6 +1605,86 @@
    "where": "Hobbiesville (Toronto & Ottawa)",
    "link": "https://hobbiesville.com/products/pokemon-pokemon-day-2027-collection",
    "time": "2026-11-13T03:18:23.952629+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Mini Tin - Night - Greninja",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-night-greninja",
+   "time": "2026-11-13T20:21:00.482314+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Mini Tin - Night - Zapdos",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-night-zapdos",
+   "time": "2026-11-13T20:21:01.378517+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Mini Tin - Day - Pikachu",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-day-pikachu",
+   "time": "2026-11-13T20:21:02.302641+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Mini Tin - Night - Mewtwo",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-night-mewtwo",
+   "time": "2026-11-13T20:21:03.199307+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Mini Tin - Day - Moltress",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-day-moltress",
+   "time": "2026-11-13T20:21:04.125830+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Mini Tin - Day - Mew & Executor",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-day-mew-exexcutor",
+   "time": "2026-11-13T20:21:05.020910+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Mini Tin - Night - Umbreon",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-night-umbreon",
+   "time": "2026-11-13T20:21:05.943934+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Mini Tin - Day - Meowth & Espeon",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-day-meowth-espeon",
+   "time": "2026-11-13T20:21:07.029950+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Mini Tin - Day - Lapras",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-day-lapras",
+   "time": "2026-11-13T20:21:07.933641+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - 2026 - 30th Celebration - Mini Tin - Night - Pikachu",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-night-pikachu",
+   "time": "2026-11-13T20:21:07.933668+00:00"
   }
  ],
  "news_seen": [],
@@ -1581,6 +1701,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-13T19:24:01.310681+00:00",
+ "last_news_check": "2026-11-13T20:20:59.570746+00:00",
  "welcomed": true
 }
