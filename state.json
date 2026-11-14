@@ -16,7 +16,7 @@
      "p": "25.95"
     }
    },
-   "checked": "2026-11-13T23:25:28.971780+00:00",
+   "checked": "2026-11-14T00:04:54.917528+00:00",
    "status": "OK — watching 3 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -263,7 +263,7 @@
      "p": "269.99"
     }
    },
-   "checked": "2026-11-13T23:25:30.874955+00:00",
+   "checked": "2026-11-14T00:04:56.453847+00:00",
    "status": "OK — watching 50 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -706,7 +706,7 @@
      "p": "44.99"
     }
    },
-   "checked": "2026-11-13T23:25:32.422599+00:00",
+   "checked": "2026-11-14T00:04:58.311875+00:00",
    "status": "OK — watching 109 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -851,10 +851,14 @@
     "68023582359782": {
      "a": false,
      "p": "0.20"
+    },
+    "68034896167142": {
+     "a": true,
+     "p": "54.99"
     }
    },
-   "checked": "2026-11-13T23:25:38.894750+00:00",
-   "status": "OK — watching 7 sealed Pokémon products"
+   "checked": "2026-11-14T00:05:05.274548+00:00",
+   "status": "OK — watching 8 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
    "initialized": true,
@@ -1280,7 +1284,7 @@
      "p": "419.99"
     }
    },
-   "checked": "2026-11-13T23:25:46.433162+00:00",
+   "checked": "2026-11-14T00:05:13.415139+00:00",
    "status": "OK — watching 48 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1391,7 +1395,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-13T23:25:52.901345+00:00",
+   "checked": "2026-11-14T00:05:20.669633+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -1685,6 +1689,14 @@
    "where": "Cardboard Memories",
    "link": "https://www.cardboardmemories.ca/products/pokemon-2026-30th-celebration-mini-tin-night-pikachu",
    "time": "2026-11-13T20:21:07.933668+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Delta Reign - Booster Bundle (English)",
+   "where": "Abyss Game Store",
+   "link": "https://abyssgamestore.ca/products/pokemon-delta-reign-booster-bundle",
+   "time": "2026-11-14T00:05:23.206880+00:00"
   }
  ],
  "news_seen": [],
@@ -1701,6 +1713,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-13T23:25:54.262686+00:00",
+ "last_news_check": "2026-11-14T00:05:22.212692+00:00",
  "welcomed": true
 }
