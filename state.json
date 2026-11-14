@@ -16,7 +16,7 @@
      "p": "25.95"
     }
    },
-   "checked": "2026-11-14T00:04:54.917528+00:00",
+   "checked": "2026-11-14T01:03:42.739050+00:00",
    "status": "OK — watching 3 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -263,7 +263,7 @@
      "p": "269.99"
     }
    },
-   "checked": "2026-11-14T00:04:56.453847+00:00",
+   "checked": "2026-11-14T01:03:44.155969+00:00",
    "status": "OK — watching 50 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -706,7 +706,7 @@
      "p": "44.99"
     }
    },
-   "checked": "2026-11-14T00:04:58.311875+00:00",
+   "checked": "2026-11-14T01:03:45.538337+00:00",
    "status": "OK — watching 109 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -855,10 +855,26 @@
     "68034896167142": {
      "a": true,
      "p": "54.99"
+    },
+    "68035162767590": {
+     "a": true,
+     "p": "29.99"
+    },
+    "68035141107942": {
+     "a": true,
+     "p": "9.99"
+    },
+    "68034984837350": {
+     "a": true,
+     "p": "8.99"
+    },
+    "68034953904358": {
+     "a": true,
+     "p": "124.99"
     }
    },
-   "checked": "2026-11-14T00:05:05.274548+00:00",
-   "status": "OK — watching 8 sealed Pokémon products"
+   "checked": "2026-11-14T01:03:52.135920+00:00",
+   "status": "OK — watching 12 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
    "initialized": true,
@@ -1284,7 +1300,7 @@
      "p": "419.99"
     }
    },
-   "checked": "2026-11-14T00:05:13.415139+00:00",
+   "checked": "2026-11-14T01:03:59.692690+00:00",
    "status": "OK — watching 48 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1395,7 +1411,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-14T00:05:20.669633+00:00",
+   "checked": "2026-11-14T01:04:06.353568+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -1697,6 +1713,38 @@
    "where": "Abyss Game Store",
    "link": "https://abyssgamestore.ca/products/pokemon-delta-reign-booster-bundle",
    "time": "2026-11-14T00:05:23.206880+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Delta Reign 3-Pack Blister",
+   "where": "Abyss Game Store",
+   "link": "https://abyssgamestore.ca/products/pokemon-delta-reign-3-pack-blister",
+   "time": "2026-11-14T01:04:08.993790+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Delta Reign - Checklane Blister (New)",
+   "where": "Abyss Game Store",
+   "link": "https://abyssgamestore.ca/products/pokemon-delta-reign-checklane-blister",
+   "time": "2026-11-14T01:04:10.101862+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Booster Pack - Mega Evolution: Delta Reign (New)",
+   "where": "Abyss Game Store",
+   "link": "https://abyssgamestore.ca/products/pokemon-booster-pack-mega-evolution-delta-reign",
+   "time": "2026-11-14T01:04:11.171882+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Delta Reign - Elite Trainer Box (English)",
+   "where": "Abyss Game Store",
+   "link": "https://abyssgamestore.ca/products/pokemon-delta-reign-elite-trainer-box",
+   "time": "2026-11-14T01:04:12.274638+00:00"
   }
  ],
  "news_seen": [],
@@ -1713,6 +1761,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-14T00:05:22.212692+00:00",
+ "last_news_check": "2026-11-14T01:04:07.773291+00:00",
  "welcomed": true
 }
