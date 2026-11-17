@@ -20,7 +20,7 @@
      "p": "1.00"
     }
    },
-   "checked": "2026-11-17T17:37:39.996207+00:00",
+   "checked": "2026-11-17T18:32:10.693388+00:00",
    "status": "OK — watching 4 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -287,7 +287,7 @@
      "p": "499.99"
     }
    },
-   "checked": "2026-11-17T17:37:41.357597+00:00",
+   "checked": "2026-11-17T18:32:12.116415+00:00",
    "status": "OK — watching 53 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -730,7 +730,7 @@
      "p": "44.99"
     }
    },
-   "checked": "2026-11-17T17:37:42.744574+00:00",
+   "checked": "2026-11-17T18:32:13.656449+00:00",
    "status": "OK — watching 109 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -897,7 +897,7 @@
      "p": "124.99"
     }
    },
-   "checked": "2026-11-17T17:37:49.428418+00:00",
+   "checked": "2026-11-17T18:32:19.812805+00:00",
    "status": "OK — watching 12 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1300,7 +1300,7 @@
      "p": "259.99"
     },
     "47685851185329": {
-     "a": false,
+     "a": true,
      "p": "599.99"
     },
     "47685851218097": {
@@ -1324,7 +1324,7 @@
      "p": "419.99"
     }
    },
-   "checked": "2026-11-17T17:37:56.158010+00:00",
+   "checked": "2026-11-17T18:32:27.194932+00:00",
    "status": "OK — watching 48 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1435,7 +1435,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-17T17:38:03.065120+00:00",
+   "checked": "2026-11-17T18:32:34.026548+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -1817,6 +1817,14 @@
    "where": "Top Shelf Collection",
    "link": "https://topshelfco.ca/products/pokemon-30th-celebration-ultra-premium-collection",
    "time": "2026-11-16T23:07:48.585693+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokémon 30th Celebration Day/Night Ultra-Premium Collection Box/Case (Night (Umbreon))",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-30th-celebration-day-night-ultra-premium-collection-box-case",
+   "time": "2026-11-17T18:32:36.431370+00:00"
   }
  ],
  "news_seen": [],
@@ -1833,6 +1841,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-17T17:38:04.445385+00:00",
+ "last_news_check": "2026-11-17T18:32:35.485638+00:00",
  "welcomed": true
 }
