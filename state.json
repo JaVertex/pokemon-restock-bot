@@ -20,7 +20,7 @@
      "p": "1.00"
     }
    },
-   "checked": "2026-11-17T22:26:03.801449+00:00",
+   "checked": "2026-11-17T23:22:36.158432+00:00",
    "status": "OK — watching 1 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -287,8 +287,8 @@
      "p": "499.99"
     }
    },
-   "checked": "2026-11-17T22:26:05.449829+00:00",
-   "status": "OK — watching 53 sealed Pokémon products"
+   "checked": "2026-11-17T23:22:37.632324+00:00",
+   "status": "OK — watching 52 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
    "initialized": true,
@@ -730,7 +730,7 @@
      "p": "44.99"
     }
    },
-   "checked": "2026-11-17T22:26:07.123547+00:00",
+   "checked": "2026-11-17T23:22:39.195500+00:00",
    "status": "OK — watching 109 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -897,7 +897,7 @@
      "p": "124.99"
     }
    },
-   "checked": "2026-11-17T22:26:14.358838+00:00",
+   "checked": "2026-11-17T23:22:45.657274+00:00",
    "status": "OK — watching 12 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1322,10 +1322,66 @@
     "47685924487345": {
      "a": true,
      "p": "419.99"
+    },
+    "47880310161585": {
+     "a": true,
+     "p": "8.99"
+    },
+    "47880310194353": {
+     "a": true,
+     "p": "329.99"
+    },
+    "47880310227121": {
+     "a": true,
+     "p": "1899.99"
+    },
+    "47880310259889": {
+     "a": true,
+     "p": "8.99"
+    },
+    "47880310292657": {
+     "a": true,
+     "p": "1199.99"
+    },
+    "47880317272241": {
+     "a": true,
+     "p": "26.99"
+    },
+    "47880317305009": {
+     "a": true,
+     "p": "649.99"
+    },
+    "47880318943409": {
+     "a": true,
+     "p": "129.99"
+    },
+    "47880318976177": {
+     "a": true,
+     "p": "1249.99"
+    },
+    "47880319795377": {
+     "a": true,
+     "p": "59.99"
+    },
+    "47880319828145": {
+     "a": true,
+     "p": "1479.99"
+    },
+    "47880321335473": {
+     "a": true,
+     "p": "9.99"
+    },
+    "47880321368241": {
+     "a": true,
+     "p": "149.99"
+    },
+    "47880321401009": {
+     "a": true,
+     "p": "2799.99"
     }
    },
-   "checked": "2026-11-17T22:26:21.498631+00:00",
-   "status": "OK — watching 48 sealed Pokémon products"
+   "checked": "2026-11-17T23:22:53.421333+00:00",
+   "status": "OK — watching 53 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
    "initialized": true,
@@ -1435,7 +1491,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-17T22:26:28.406346+00:00",
+   "checked": "2026-11-17T23:23:00.327616+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -1825,6 +1881,118 @@
    "where": "Pastime Sports & Games",
    "link": "https://pastimesports.ca/products/pokemon-30th-celebration-day-night-ultra-premium-collection-box-case",
    "time": "2026-11-17T18:32:36.431370+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokémon Delta Reign Booster Box/Case (Booster / Pack)",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-booster-box-case",
+   "time": "2026-11-17T23:23:02.643625+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokémon Delta Reign Booster Box/Case (Booster / Box)",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-booster-box-case",
+   "time": "2026-11-17T23:23:03.589964+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokémon Delta Reign Booster Box/Case (Booster / Sealed Case (6 Boxes))",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-booster-box-case",
+   "time": "2026-11-17T23:23:04.526825+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokémon Delta Reign Booster Box/Case (Sleeved Booster / Pack)",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-booster-box-case",
+   "time": "2026-11-17T23:23:05.471845+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokémon Delta Reign Booster Box/Case (Sleeved Booster / Sealed Case (144 packs))",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-booster-box-case",
+   "time": "2026-11-17T23:23:06.412400+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokémon Delta Reign 3-Pack Blister Pack/Case (Seel)",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-3-pack-blister-pack-case",
+   "time": "2026-11-17T23:23:07.355886+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokémon Delta Reign 3-Pack Blister Pack/Case (Sealed Case (24 Blisters))",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-3-pack-blister-pack-case",
+   "time": "2026-11-17T23:23:08.299106+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Delta Reign Elite Trainer Box/Case (Box)",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-elite-trainer-box-case",
+   "time": "2026-11-17T23:23:09.228814+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Delta Reign Elite Trainer Box/Case (Sealed Case (10 Boxes))",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-elite-trainer-box-case",
+   "time": "2026-11-17T23:23:10.165470+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Delta Reign Booster Bundle Box/Case (Box)",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-booster-bundle-box-case",
+   "time": "2026-11-17T23:23:10.165506+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Delta Reign Booster Bundle Box/Case (Sealed Case (25 Boxes))",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-booster-bundle-box-case",
+   "time": "2026-11-17T23:23:10.165509+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Delta Reign Checklane Blister Pack (Spritzee)",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-checklane-blister-pack",
+   "time": "2026-11-17T23:23:10.165513+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Delta Reign Checklane Blister Pack (Inner (16 Blisters))",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-checklane-blister-pack",
+   "time": "2026-11-17T23:23:10.165515+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Delta Reign Checklane Blister Pack (Case (18 Inners))",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-checklane-blister-pack",
+   "time": "2026-11-17T23:23:10.165518+00:00"
   }
  ],
  "news_seen": [],
@@ -1841,6 +2009,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-17T22:26:29.926207+00:00",
+ "last_news_check": "2026-11-17T23:23:01.698842+00:00",
  "welcomed": true
 }
