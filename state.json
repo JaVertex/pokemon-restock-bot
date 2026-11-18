@@ -20,7 +20,7 @@
      "p": "1.00"
     }
    },
-   "checked": "2026-11-18T16:40:45.256993+00:00",
+   "checked": "2026-11-18T17:39:07.030802+00:00",
    "status": "OK — watching 1 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -287,7 +287,7 @@
      "p": "499.99"
     }
    },
-   "checked": "2026-11-18T16:40:46.709049+00:00",
+   "checked": "2026-11-18T17:39:08.618633+00:00",
    "status": "OK — watching 52 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -730,7 +730,7 @@
      "p": "44.99"
     }
    },
-   "checked": "2026-11-18T16:40:48.414638+00:00",
+   "checked": "2026-11-18T17:39:10.194021+00:00",
    "status": "OK — watching 109 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -917,7 +917,7 @@
      "p": "1.05"
     }
    },
-   "checked": "2026-11-18T16:40:55.330530+00:00",
+   "checked": "2026-11-18T17:39:16.835650+00:00",
    "status": "OK — watching 13 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1400,7 +1400,7 @@
      "p": "2799.99"
     }
    },
-   "checked": "2026-11-18T16:41:03.116313+00:00",
+   "checked": "2026-11-18T17:39:24.697642+00:00",
    "status": "OK — watching 52 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1511,7 +1511,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-18T16:41:10.362415+00:00",
+   "checked": "2026-11-18T17:39:31.782918+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -2029,6 +2029,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-18T16:41:11.999211+00:00",
+ "last_news_check": "2026-11-18T17:39:33.316711+00:00",
  "welcomed": true
 }
