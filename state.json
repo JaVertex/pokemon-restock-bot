@@ -20,7 +20,7 @@
      "p": "1.00"
     }
    },
-   "checked": "2026-11-18T19:35:10.061124+00:00",
+   "checked": "2026-11-18T20:32:59.437234+00:00",
    "status": "OK — watching 1 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -287,7 +287,7 @@
      "p": "499.99"
     }
    },
-   "checked": "2026-11-18T19:35:11.628603+00:00",
+   "checked": "2026-11-18T20:33:00.846897+00:00",
    "status": "OK — watching 52 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -730,7 +730,7 @@
      "p": "44.99"
     }
    },
-   "checked": "2026-11-18T19:35:13.288357+00:00",
+   "checked": "2026-11-18T20:33:02.533113+00:00",
    "status": "OK — watching 109 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -917,7 +917,7 @@
      "p": "1.05"
     }
    },
-   "checked": "2026-11-18T19:35:19.706050+00:00",
+   "checked": "2026-11-18T20:33:09.154939+00:00",
    "status": "OK — watching 13 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1398,10 +1398,14 @@
     "47880321401009": {
      "a": true,
      "p": "2799.99"
+    },
+    "48204624363697": {
+     "a": true,
+     "p": "84.99"
     }
    },
-   "checked": "2026-11-18T19:35:27.978128+00:00",
-   "status": "OK — watching 52 sealed Pokémon products"
+   "checked": "2026-11-18T20:33:15.983947+00:00",
+   "status": "OK — watching 53 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
    "initialized": true,
@@ -1511,7 +1515,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-18T19:35:35.191665+00:00",
+   "checked": "2026-11-18T20:33:22.732044+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -2013,6 +2017,14 @@
    "where": "Pastime Sports & Games",
    "link": "https://pastimesports.ca/products/pokemon-delta-reign-checklane-blister-pack",
    "time": "2026-11-17T23:23:10.165518+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon 30th Celebration Classic Collection Booster Pack",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-30th-celebration-classic-collection-booster-pack",
+   "time": "2026-11-18T20:33:25.211434+00:00"
   }
  ],
  "news_seen": [],
@@ -2029,6 +2041,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-18T19:35:36.788068+00:00",
+ "last_news_check": "2026-11-18T20:33:24.066582+00:00",
  "welcomed": true
 }
