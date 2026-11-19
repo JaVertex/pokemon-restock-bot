@@ -18,10 +18,18 @@
     "72121928220810": {
      "a": false,
      "p": "1.00"
+    },
+    "50595473948810": {
+     "a": true,
+     "p": "449.95"
+    },
+    "50595471294602": {
+     "a": true,
+     "p": "429.95"
     }
    },
-   "checked": "2026-11-19T12:21:28.659593+00:00",
-   "status": "OK — watching 0 sealed Pokémon products"
+   "checked": "2026-11-19T13:45:15.809796+00:00",
+   "status": "OK — watching 2 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
    "initialized": true,
@@ -287,7 +295,7 @@
      "p": "499.99"
     }
    },
-   "checked": "2026-11-19T12:21:30.203020+00:00",
+   "checked": "2026-11-19T13:45:17.250192+00:00",
    "status": "OK — watching 52 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -730,7 +738,7 @@
      "p": "44.99"
     }
    },
-   "checked": "2026-11-19T12:21:31.809198+00:00",
+   "checked": "2026-11-19T13:45:18.966686+00:00",
    "status": "OK — watching 109 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -917,7 +925,7 @@
      "p": "1.05"
     }
    },
-   "checked": "2026-11-19T12:21:38.837462+00:00",
+   "checked": "2026-11-19T13:45:25.821891+00:00",
    "status": "OK — watching 13 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1056,16 +1064,16 @@
      "p": "879.99"
     },
     "47880305868977": {
-     "a": false,
-     "p": "39.99"
+     "a": true,
+     "p": "44.99"
     },
     "47880305901745": {
      "a": false,
-     "p": "399.99"
+     "p": "429.99"
     },
     "47880305934513": {
      "a": false,
-     "p": "2499.99"
+     "p": "2649.99"
     },
     "48018086428849": {
      "a": false,
@@ -1404,8 +1412,8 @@
      "p": "84.99"
     }
    },
-   "checked": "2026-11-19T12:21:47.263787+00:00",
-   "status": "OK — watching 53 sealed Pokémon products"
+   "checked": "2026-11-19T13:45:34.044779+00:00",
+   "status": "OK — watching 54 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
    "initialized": true,
@@ -1515,7 +1523,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-19T12:21:54.693328+00:00",
+   "checked": "2026-11-19T13:45:41.105657+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -2025,6 +2033,30 @@
    "where": "Pastime Sports & Games",
    "link": "https://pastimesports.ca/products/pokemon-30th-celebration-classic-collection-booster-pack",
    "time": "2026-11-18T20:33:25.211434+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "(Wave 2 App Exclusive) Pokemon - 30th Celebration - Ultra Premium Collection - Night (Pre Order)",
+   "where": "Hobbiesville (Toronto & Ottawa)",
+   "link": "https://hobbiesville.com/products/wave-2-app-exclusive-pokemon-30th-celebration-ultra-premium-collection-night-pre-order-copy",
+   "time": "2026-11-19T13:45:43.707458+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "(Wave 2 App Exclusive) Pokemon - 30th Celebration - Ultra Premium Collection - Day (Pre Order)",
+   "where": "Hobbiesville (Toronto & Ottawa)",
+   "link": "https://hobbiesville.com/products/wave-2-app-exclusive-pokemon-30th-celebration-ultra-premium-collection-day-pre-order-copy",
+   "time": "2026-11-19T13:45:44.744190+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Delta Reign Build & Battle Box/Case (Box)",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-delta-reign-build-battle-box-case",
+   "time": "2026-11-19T13:45:45.794368+00:00"
   }
  ],
  "news_seen": [],
@@ -2041,6 +2073,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-19T12:21:56.239459+00:00",
+ "last_news_check": "2026-11-19T13:45:42.553480+00:00",
  "welcomed": true
 }
