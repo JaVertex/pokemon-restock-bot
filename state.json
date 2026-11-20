@@ -28,7 +28,7 @@
      "p": "429.95"
     }
    },
-   "checked": "2026-11-20T01:02:26.429614+00:00",
+   "checked": "2026-11-20T02:14:10.767035+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -297,10 +297,18 @@
     "50478709604532": {
      "a": true,
      "p": "39.99"
+    },
+    "43888863117492": {
+     "a": true,
+     "p": "13.99"
+    },
+    "44103682588852": {
+     "a": true,
+     "p": "119.99"
     }
    },
-   "checked": "2026-11-20T01:02:27.712764+00:00",
-   "status": "OK — watching 53 sealed Pokémon products"
+   "checked": "2026-11-20T02:14:12.119758+00:00",
+   "status": "OK — watching 55 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
    "initialized": true,
@@ -742,7 +750,7 @@
      "p": "44.99"
     }
    },
-   "checked": "2026-11-20T01:02:29.097958+00:00",
+   "checked": "2026-11-20T02:14:13.773690+00:00",
    "status": "OK — watching 109 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -929,7 +937,7 @@
      "p": "1.05"
     }
    },
-   "checked": "2026-11-20T01:02:35.519497+00:00",
+   "checked": "2026-11-20T02:14:20.607951+00:00",
    "status": "OK — watching 13 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1416,7 +1424,7 @@
      "p": "84.99"
     }
    },
-   "checked": "2026-11-20T01:02:42.559480+00:00",
+   "checked": "2026-11-20T02:14:28.688951+00:00",
    "status": "OK — watching 54 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1527,7 +1535,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-20T01:02:48.879849+00:00",
+   "checked": "2026-11-20T02:14:35.677734+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -2069,6 +2077,22 @@
    "where": "Top Shelf Collection",
    "link": "https://topshelfco.ca/products/pokemon-delta-reign-build-battle-box",
    "time": "2026-11-20T01:02:51.506609+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Journey Together - Sleeved Booster",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/pokemon-journey-together-sleeved-booster",
+   "time": "2026-11-20T02:14:38.346327+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Ascended Heroes - Booster Bundle",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/pokemon-me02-5-ascended-heroes-booster-bundle",
+   "time": "2026-11-20T02:14:39.453581+00:00"
   }
  ],
  "news_seen": [],
@@ -2085,6 +2109,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-20T01:02:50.604936+00:00",
+ "last_news_check": "2026-11-20T02:14:37.279553+00:00",
  "welcomed": true
 }
