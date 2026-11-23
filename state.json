@@ -26,10 +26,18 @@
     "50595471294602": {
      "a": true,
      "p": "429.95"
+    },
+    "72308765556874": {
+     "a": true,
+     "p": "54.95"
+    },
+    "72308710375562": {
+     "a": true,
+     "p": "54.95"
     }
    },
-   "checked": "2026-11-23T13:18:11.094127+00:00",
-   "status": "OK — watching 0 sealed Pokémon products"
+   "checked": "2026-11-23T14:36:25.458483+00:00",
+   "status": "OK — watching 2 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
    "initialized": true,
@@ -307,7 +315,7 @@
      "p": "119.99"
     }
    },
-   "checked": "2026-11-23T13:18:12.486582+00:00",
+   "checked": "2026-11-23T14:36:27.031327+00:00",
    "status": "OK — watching 54 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -750,7 +758,7 @@
      "p": "44.99"
     }
    },
-   "checked": "2026-11-23T13:18:13.981300+00:00",
+   "checked": "2026-11-23T14:36:28.741182+00:00",
    "status": "OK — watching 108 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -957,7 +965,7 @@
      "p": "0.05"
     }
    },
-   "checked": "2026-11-23T13:18:19.796187+00:00",
+   "checked": "2026-11-23T14:36:35.928261+00:00",
    "status": "OK — watching 12 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1444,7 +1452,7 @@
      "p": "89.99"
     }
    },
-   "checked": "2026-11-23T13:18:27.728296+00:00",
+   "checked": "2026-11-23T14:36:44.192415+00:00",
    "status": "OK — watching 52 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1555,7 +1563,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-23T13:18:34.267612+00:00",
+   "checked": "2026-11-23T14:36:51.478592+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -2129,6 +2137,22 @@
    "where": "Pastime Sports & Games",
    "link": "https://pastimesports.ca/products/pokemon-30th-celebration-classic-collection-booster-pack",
    "time": "2026-11-22T23:20:28.112113+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon White Flare csv10.6C (Slim) Simplified Chinese Booster Box",
+   "where": "Hobbiesville (Toronto & Ottawa)",
+   "link": "https://hobbiesville.com/products/pokemon-white-flare-csv10-6c-slim-simplified-chinese-booster-box",
+   "time": "2026-11-23T14:36:54.201557+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Black Bolt csv10.5C (Slim) Simplified Chinese Booster Box",
+   "where": "Hobbiesville (Toronto & Ottawa)",
+   "link": "https://hobbiesville.com/products/pokemon-black-bolt-csv10-5c-slim-simplified-chinese-booster-box",
+   "time": "2026-11-23T14:36:55.178392+00:00"
   }
  ],
  "news_seen": [],
@@ -2145,6 +2169,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-23T13:18:35.675344+00:00",
+ "last_news_check": "2026-11-23T14:36:53.173872+00:00",
  "welcomed": true
 }
