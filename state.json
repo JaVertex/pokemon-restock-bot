@@ -36,7 +36,7 @@
      "p": "54.95"
     }
    },
-   "checked": "2026-11-24T16:57:50.991441+00:00",
+   "checked": "2026-11-24T17:52:59.818245+00:00",
    "status": "OK — watching 2 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -315,7 +315,7 @@
      "p": "119.99"
     }
    },
-   "checked": "2026-11-24T16:57:52.407202+00:00",
+   "checked": "2026-11-24T17:53:01.340277+00:00",
    "status": "OK — watching 54 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -756,10 +756,14 @@
     "67653822480538": {
      "a": true,
      "p": "44.99"
+    },
+    "43462206587034": {
+     "a": true,
+     "p": "129.99"
     }
    },
-   "checked": "2026-11-24T16:57:53.926828+00:00",
-   "status": "OK — watching 108 sealed Pokémon products"
+   "checked": "2026-11-24T17:53:02.848435+00:00",
+   "status": "OK — watching 109 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
    "initialized": true,
@@ -965,7 +969,7 @@
      "p": "0.05"
     }
    },
-   "checked": "2026-11-24T16:58:00.605908+00:00",
+   "checked": "2026-11-24T17:53:09.347042+00:00",
    "status": "OK — watching 12 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1452,7 +1456,7 @@
      "p": "89.99"
     }
    },
-   "checked": "2026-11-24T16:58:07.756541+00:00",
+   "checked": "2026-11-24T17:53:17.179988+00:00",
    "status": "OK — watching 52 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1563,7 +1567,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-24T16:58:14.577286+00:00",
+   "checked": "2026-11-24T17:53:23.860700+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -2153,6 +2157,14 @@
    "where": "Hobbiesville (Toronto & Ottawa)",
    "link": "https://hobbiesville.com/products/pokemon-black-bolt-csv10-5c-slim-simplified-chinese-booster-box",
    "time": "2026-11-23T14:36:55.178392+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon - Scarlet and Violet - Paldea Evolved - Build and Battle Box",
+   "where": "Cardboard Memories",
+   "link": "https://www.cardboardmemories.ca/products/pokemon-scarlet-and-violet-paldea-evolved-build-and-battle-box",
+   "time": "2026-11-24T17:53:26.460650+00:00"
   }
  ],
  "news_seen": [],
@@ -2169,6 +2181,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-24T16:58:16.021547+00:00",
+ "last_news_check": "2026-11-24T17:53:25.521853+00:00",
  "welcomed": true
 }
