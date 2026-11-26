@@ -40,7 +40,7 @@
      "p": "219.95"
     }
    },
-   "checked": "2026-11-26T20:21:00.754784+00:00",
+   "checked": "2026-11-26T21:18:09.399893+00:00",
    "status": "OK — watching 3 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -303,7 +303,7 @@
      "p": "449.99"
     },
     "67606773530804": {
-     "a": true,
+     "a": false,
      "p": "499.99"
     },
     "50478709604532": {
@@ -317,10 +317,18 @@
     "44103682588852": {
      "a": true,
      "p": "119.99"
+    },
+    "67628232802484": {
+     "a": true,
+     "p": "119.99"
+    },
+    "67628233130164": {
+     "a": true,
+     "p": "22.99"
     }
    },
-   "checked": "2026-11-26T20:21:02.119745+00:00",
-   "status": "OK — watching 55 sealed Pokémon products"
+   "checked": "2026-11-26T21:18:10.861359+00:00",
+   "status": "OK — watching 57 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
    "initialized": true,
@@ -447,7 +455,7 @@
     },
     "48668155314330": {
      "a": true,
-     "p": "159.99"
+     "p": "179.99"
     },
     "48023421780122": {
      "a": true,
@@ -778,7 +786,7 @@
      "p": "99.99"
     }
    },
-   "checked": "2026-11-26T20:21:03.475121+00:00",
+   "checked": "2026-11-26T21:18:12.322358+00:00",
    "status": "OK — watching 113 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -985,7 +993,7 @@
      "p": "0.05"
     }
    },
-   "checked": "2026-11-26T20:21:10.118267+00:00",
+   "checked": "2026-11-26T21:18:20.800004+00:00",
    "status": "OK — watching 8 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1472,7 +1480,7 @@
      "p": "89.99"
     }
    },
-   "checked": "2026-11-26T20:21:17.708687+00:00",
+   "checked": "2026-11-26T21:18:27.855398+00:00",
    "status": "OK — watching 52 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1583,7 +1591,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-26T20:21:23.677625+00:00",
+   "checked": "2026-11-26T21:18:34.524925+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -2221,6 +2229,22 @@
    "where": "Cardboard Memories",
    "link": "https://www.cardboardmemories.ca/products/pokemon-mega-evolution-ascended-heroes-first-partners-deluxe-pin-collection",
    "time": "2026-11-26T20:21:26.145115+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Re-Ment - Pokemon Swing Vignette Collection 4 - Blind Box (Set of 6)",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/re-ment-pokemon-swing-vignette-collection-4-blind-box-set-of-6",
+   "time": "2026-11-26T21:18:36.837263+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Re-Ment - Pokemon Shower Splash! - Blind Box",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/re-ment-pokemon-shower-splash-blind-box",
+   "time": "2026-11-26T21:18:37.789293+00:00"
   }
  ],
  "news_seen": [],
@@ -2237,6 +2261,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-26T20:21:25.012120+00:00",
+ "last_news_check": "2026-11-26T21:18:35.898821+00:00",
  "welcomed": true
 }
