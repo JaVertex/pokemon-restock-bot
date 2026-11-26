@@ -40,7 +40,7 @@
      "p": "219.95"
     }
    },
-   "checked": "2026-11-26T21:18:09.399893+00:00",
+   "checked": "2026-11-26T22:19:36.780261+00:00",
    "status": "OK — watching 3 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -325,9 +325,13 @@
     "67628233130164": {
      "a": true,
      "p": "22.99"
+    },
+    "43923113279668": {
+     "a": true,
+     "p": "119.99"
     }
    },
-   "checked": "2026-11-26T21:18:10.861359+00:00",
+   "checked": "2026-11-26T22:19:38.170622+00:00",
    "status": "OK — watching 57 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -786,7 +790,7 @@
      "p": "99.99"
     }
    },
-   "checked": "2026-11-26T21:18:12.322358+00:00",
+   "checked": "2026-11-26T22:19:39.792843+00:00",
    "status": "OK — watching 113 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -993,7 +997,7 @@
      "p": "0.05"
     }
    },
-   "checked": "2026-11-26T21:18:20.800004+00:00",
+   "checked": "2026-11-26T22:19:46.355295+00:00",
    "status": "OK — watching 8 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1480,7 +1484,7 @@
      "p": "89.99"
     }
    },
-   "checked": "2026-11-26T21:18:27.855398+00:00",
+   "checked": "2026-11-26T22:19:54.531064+00:00",
    "status": "OK — watching 52 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1591,7 +1595,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-26T21:18:34.524925+00:00",
+   "checked": "2026-11-26T22:20:01.212837+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -2245,6 +2249,14 @@
    "where": "Top Shelf Collection",
    "link": "https://topshelfco.ca/products/re-ment-pokemon-shower-splash-blind-box",
    "time": "2026-11-26T21:18:37.789293+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Re-Ment - Pokemon Pocket Bonsai Vol. 3 - Blind Box (Set of 6)",
+   "where": "Top Shelf Collection",
+   "link": "https://topshelfco.ca/products/re-ment-pokemon-pocket-bonsai-vol-3-blind-box-set-of-6",
+   "time": "2026-11-26T22:20:03.767352+00:00"
   }
  ],
  "news_seen": [],
@@ -2261,6 +2273,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-26T21:18:35.898821+00:00",
+ "last_news_check": "2026-11-26T22:20:02.695882+00:00",
  "welcomed": true
 }
