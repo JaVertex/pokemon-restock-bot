@@ -20,12 +20,12 @@
      "p": "1.00"
     },
     "50595473948810": {
-     "a": true,
-     "p": "449.95"
+     "a": false,
+     "p": "399.95"
     },
     "50595471294602": {
-     "a": true,
-     "p": "429.95"
+     "a": false,
+     "p": "349.95"
     },
     "72308765556874": {
      "a": true,
@@ -40,8 +40,8 @@
      "p": "219.95"
     }
    },
-   "checked": "2026-11-27T15:59:38.480530+00:00",
-   "status": "OK — watching 3 sealed Pokémon products"
+   "checked": "2026-11-27T17:08:56.238405+00:00",
+   "status": "OK — watching 5 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
    "initialized": true,
@@ -331,7 +331,7 @@
      "p": "119.99"
     }
    },
-   "checked": "2026-11-27T15:59:39.791636+00:00",
+   "checked": "2026-11-27T17:08:57.548249+00:00",
    "status": "OK — watching 57 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -790,7 +790,7 @@
      "p": "99.99"
     }
    },
-   "checked": "2026-11-27T15:59:41.273248+00:00",
+   "checked": "2026-11-27T17:08:58.931307+00:00",
    "status": "OK — watching 112 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -997,7 +997,7 @@
      "p": "0.05"
     }
    },
-   "checked": "2026-11-27T15:59:48.044759+00:00",
+   "checked": "2026-11-27T17:09:05.325864+00:00",
    "status": "OK — watching 8 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1504,7 +1504,7 @@
      "p": "1429.99"
     }
    },
-   "checked": "2026-11-27T15:59:54.951494+00:00",
+   "checked": "2026-11-27T17:09:12.721610+00:00",
    "status": "OK — watching 53 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
@@ -1623,7 +1623,7 @@
      "p": "99.99"
     }
    },
-   "checked": "2026-11-27T16:00:01.328495+00:00",
+   "checked": "2026-11-27T17:09:19.451968+00:00",
    "status": "OK — watching 2 sealed Pokémon products"
   }
  },
@@ -2341,6 +2341,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-27T16:00:02.849873+00:00",
+ "last_news_check": "2026-11-27T17:09:20.751221+00:00",
  "welcomed": true
 }
