@@ -40,7 +40,7 @@
      "p": "219.95"
     }
    },
-   "checked": "2026-11-27T08:30:54.147758+00:00",
+   "checked": "2026-11-27T09:43:13.381171+00:00",
    "status": "OK — watching 3 sealed Pokémon products"
   },
   "https://topshelfco.ca": {
@@ -331,7 +331,7 @@
      "p": "119.99"
     }
    },
-   "checked": "2026-11-27T08:30:55.517371+00:00",
+   "checked": "2026-11-27T09:43:14.775588+00:00",
    "status": "OK — watching 57 sealed Pokémon products"
   },
   "https://www.cardboardmemories.ca": {
@@ -790,7 +790,7 @@
      "p": "99.99"
     }
    },
-   "checked": "2026-11-27T08:30:56.971468+00:00",
+   "checked": "2026-11-27T09:43:16.220794+00:00",
    "status": "OK — watching 113 sealed Pokémon products"
   },
   "https://abyssgamestore.ca": {
@@ -997,7 +997,7 @@
      "p": "0.05"
     }
    },
-   "checked": "2026-11-27T08:31:03.625904+00:00",
+   "checked": "2026-11-27T09:43:22.620941+00:00",
    "status": "OK — watching 8 sealed Pokémon products"
   },
   "https://pastimesports.ca": {
@@ -1073,7 +1073,7 @@
     },
     "44873607970993": {
      "a": true,
-     "p": "199.99"
+     "p": "129.99"
     },
     "44873608003761": {
      "a": true,
@@ -1401,11 +1401,11 @@
     },
     "47685851185329": {
      "a": true,
-     "p": "599.99"
+     "p": "399.99"
     },
     "47685851218097": {
      "a": true,
-     "p": "599.99"
+     "p": "399.99"
     },
     "47685851250865": {
      "a": true,
@@ -1482,10 +1482,30 @@
     "48204624363697": {
      "a": true,
      "p": "89.99"
+    },
+    "46727917764785": {
+     "a": true,
+     "p": "9.99"
+    },
+    "46727917797553": {
+     "a": true,
+     "p": "199.99"
+    },
+    "46727917830321": {
+     "a": true,
+     "p": "1849.99"
+    },
+    "46727917863089": {
+     "a": false,
+     "p": "9.99"
+    },
+    "46727917895857": {
+     "a": false,
+     "p": "1429.99"
     }
    },
-   "checked": "2026-11-27T08:31:10.980797+00:00",
-   "status": "OK — watching 52 sealed Pokémon products"
+   "checked": "2026-11-27T09:43:29.810471+00:00",
+   "status": "OK — watching 53 sealed Pokémon products"
   },
   "https://gotitemgames.ca": {
    "initialized": true,
@@ -1595,7 +1615,7 @@
      "p": "2.00"
     }
    },
-   "checked": "2026-11-27T08:31:17.375317+00:00",
+   "checked": "2026-11-27T09:43:36.282653+00:00",
    "status": "OK — watching 0 sealed Pokémon products"
   }
  },
@@ -2257,6 +2277,30 @@
    "where": "Top Shelf Collection",
    "link": "https://topshelfco.ca/products/re-ment-pokemon-pocket-bonsai-vol-3-blind-box-set-of-6",
    "time": "2026-11-26T22:20:03.767352+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Chaos Rising Booster Box/Case BLACK FRIDAY LIMIT 1 BOOSTER BOX PER ACCOUNT (Booster / Pack)",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-chaos-rising-booster-box-case",
+   "time": "2026-11-27T09:43:38.769258+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Chaos Rising Booster Box/Case BLACK FRIDAY LIMIT 1 BOOSTER BOX PER ACCOUNT (Booster / Box)",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-chaos-rising-booster-box-case",
+   "time": "2026-11-27T09:43:39.915099+00:00"
+  },
+  {
+   "kind": "stock",
+   "label": "CONFIRMED",
+   "title": "Pokemon Chaos Rising Booster Box/Case BLACK FRIDAY LIMIT 1 BOOSTER BOX PER ACCOUNT (Booster / Sealed Case (6 Boxes))",
+   "where": "Pastime Sports & Games",
+   "link": "https://pastimesports.ca/products/pokemon-chaos-rising-booster-box-case",
+   "time": "2026-11-27T09:43:41.048537+00:00"
   }
  ],
  "news_seen": [],
@@ -2273,6 +2317,6 @@
   "PokéBeach (TCG news)": "error: HTTPError"
  },
  "tg_offset": 392576414,
- "last_news_check": "2026-11-27T08:31:18.742836+00:00",
+ "last_news_check": "2026-11-27T09:43:37.625202+00:00",
  "welcomed": true
 }
